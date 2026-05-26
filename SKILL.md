@@ -2,7 +2,7 @@
 name: citation-auditor
 description: 论文引文真实性审核工具 — 自动核查论文参考文献的真实性，验证DOI/URL是否可访问、期刊信息是否匹配、作者是否真实存在，生成结构化审核报告。触发词：引文审核、参考文献核查、论文查假、投稿前审核、citation audit。
 trigger: "引文审核,参考文献核查,论文查假,投稿前审核,citation audit,引文真实性"
-author: OpenClaw Community
+author: CopyleftZ
 created: 2026-05-26
 tags: [research, citation, verification, academic, paper-quality]
 ---
